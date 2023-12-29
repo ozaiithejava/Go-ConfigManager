@@ -1,0 +1,2 @@
+# Go-ConfigManager
+configManagerModule
